@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francisco Javier Bueno Vasquez</h1>
-<h3 align="center">Associate Consultant ORACLE Mexico / Professor of the Computer Academy UPIICSA - IPN</h3>
+<h3 align="center">Professor of the Computer Academy UPIICSA - IPN</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
